@@ -33,9 +33,14 @@ header {
 .welcome p {
 }
 
-.Article1 {
+.Articles {
   text-align: center;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
   text-align: left;
 }
+
+img {
+  max-height: 10px;
+}
+
