@@ -41,6 +41,7 @@ header {
 }
 
 img {
-  max-height: 10px;
+  max-height: 50px;
+  max-width: 50px;
 }
 
