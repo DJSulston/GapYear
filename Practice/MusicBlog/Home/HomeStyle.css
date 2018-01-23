@@ -1,6 +1,8 @@
 * {
   font-family: 'Montserrat', sans-serif;
-  background-image: url("https://ibb.co/guvgZG");
+  background-color: white;
+  border-color: black;
+  border-size: 2px;
 }
 
 a {
@@ -24,9 +26,6 @@ header {
 }
 
 .main {
-  background-color: white;
-  border-color: black;
-  border-size: 2px;
 }
 
 .welcome {
