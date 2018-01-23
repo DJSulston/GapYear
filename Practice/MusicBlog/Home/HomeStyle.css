@@ -24,7 +24,9 @@ header {
 }
 
 .main {
-  /* all items after header contained in here */
+  background-color: white;
+  border-color: black;
+  border-size: 2px;
 }
 
 .welcome {
